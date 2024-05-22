@@ -1,0 +1,14 @@
+2024/05/22-22:20:32.085 4cb0 Reusing MANIFEST C:\Users\ACER\OneDrive\Computer\UIT\HK4\Lap trinh mang can ban\Thuchanh\Lab4\Lab04\Bai04\bin\Debug\net8.0-windows\Bai04.exe.WebView2\EBWebView\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2024/05/22-22:20:32.086 4cb0 Recovering log #36
+2024/05/22-22:20:32.090 4cb0 Reusing old log C:\Users\ACER\OneDrive\Computer\UIT\HK4\Lap trinh mang can ban\Thuchanh\Lab4\Lab04\Bai04\bin\Debug\net8.0-windows\Bai04.exe.WebView2\EBWebView\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/000036.log 
+2024/05/22-22:20:32.091 4cb0 Delete type=2 #35
+2024/05/22-22:20:32.256 22b4 Level-0 table #41: started
+2024/05/22-22:20:32.260 22b4 Level-0 table #41: 10502 bytes OK
+2024/05/22-22:20:32.262 22b4 Delete type=0 #36
+2024/05/22-22:20:32.263 31e8 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00p~Q\xe5\xf9xB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 2032 : 1
+2024/05/22-22:20:32.264 31e8 Compacting 1@0 + 1@1 files
+2024/05/22-22:20:32.267 31e8 Generated table #42@0: 231 keys, 2931 bytes
+2024/05/22-22:20:32.267 31e8 Compacted 1@0 + 1@1 files => 2931 bytes
+2024/05/22-22:20:32.268 31e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/22-22:20:32.269 31e8 Delete type=2 #41
+2024/05/22-22:20:32.271 31e8 Manual compaction at level-0 from '\x00\x0f\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00p~Q\xe5\xf9xB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 2032 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
