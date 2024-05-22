@@ -1,0 +1,2 @@
+Do video em quay nó có dung lượng khá cao hơn những video trước đó mà khi em up lên git thì nó bị báo lỗi, dù tìm cách hạ dung lượng xuống nhưng không đủ nên mong thầy thông cả xem thông qua gg drive.
+Link video: https://drive.google.com/file/d/1qjnvG3dnQMJ2drYvHFS04L7ONtqxOe2C/view?usp=sharing
